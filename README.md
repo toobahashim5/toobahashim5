@@ -1,12 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Tooba Hashim
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2D1B4E,100:8A2BE2&height=200&section=header&text=Tooba%20Hashim&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Builder&descAlignY=62&descSize=16" width="100%"/>
 
-**💻 Software Engineering Student • AI/ML Enthusiast • Full-Stack Builder**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8A2BE2&center=true&vCenter=true&width=560&lines=Turning+ideas+into+working+software;One+project%2C+one+commit+at+a+time;Currently+exploring+AI%2FML" />
 
-### Turning ideas into working software, one project at a time
-
-<br>
+<br><br>
 
 ![Location](https://img.shields.io/badge/📍_LOCATION-KARACHI,_PAKISTAN-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
 ![Status](https://img.shields.io/badge/🎓_STATUS-SE_STUDENT_@_UIT-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
@@ -147,8 +145,10 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 [![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
 
-<br>
+<br><br>
 
-*"Always learning, always building."*
+*"Always learning, always building — one step at a time."*
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:2D1B4E&height=100&section=footer" width="100%"/>
 
 </div>
