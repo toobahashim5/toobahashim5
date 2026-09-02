@@ -174,13 +174,11 @@ A Java desktop application with **user authentication, SQLite integration and pe
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="49%" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="41%" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8)
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
+![GitHub Streak](https://streak-stats.demolab.com?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
@@ -190,7 +188,7 @@ A Java desktop application with **user authentication, SQLite integration and pe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=toobahashim5&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true&radius=12" width="95%" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=toobahashim5&theme=tokyo-night&hide_border=true&radius=12&area=true)
 
 </div>
 
