@@ -15,11 +15,6 @@
 [![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=toobahashim5&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=STARS)
 
 </div>
 
