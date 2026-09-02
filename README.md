@@ -15,6 +15,9 @@
 [![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=toobahashim5&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=PROFILE+VIEWS)
 
 </div>
 
@@ -79,6 +82,11 @@ open_to:    ["Internships", "Collaboration on student/AI projects"]
 
 ## 📌 Featured projects
 
+<details>
+<summary><b>🔍 INDEXA — Mini Search Engine</b> · Java</summary>
+<br>
+Java-based search engine built from scratch using hand-built Trie, Inverted Index, and Max Heap data structures, with custom sorting and searching algorithms for efficient information retrieval.
+</details>
 
 <details>
 <summary><b>🧭 Smart Traffic Navigation System</b> · Python, Streamlit, NetworkX, SQLite</summary>
@@ -99,12 +107,6 @@ Backend management system with full CRUD operations, integrated using RESTful ba
 </details>
 
 <details>
-<summary><b>🔍 INDEXA — Mini Search Engine</b> · Java</summary>
-<br>
-Java-based search engine built from scratch using hand-built Trie, Inverted Index, and Max Heap data structures, with custom sorting and searching algorithms for efficient information retrieval.
-</details>
-
-<details>
 <summary><b>✊ Rock Paper Scissors Game</b> · Java Swing, SQLite</summary>
 <br>
 Desktop game built with Java Swing and SQLite integration, featuring user authentication and persistent, database-backed game statistics tracking.
@@ -116,8 +118,8 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=8A2BE2&icon_color=8A2BE2"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=8A2BE2"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=dark&hide_border=true"/>
 
 </div>
 
