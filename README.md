@@ -9,16 +9,6 @@
 ![Location](https://img.shields.io/badge/📍_LOCATION-KARACHI,_PAKISTAN-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
 ![Status](https://img.shields.io/badge/🎓_STATUS-SE_STUDENT_@_UIT-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/toobahashim-6452a7374)
-[![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=toobahashim5&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=PROFILE+VIEWS)
-
 </div>
 
 <br>
