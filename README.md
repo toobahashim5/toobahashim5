@@ -84,11 +84,6 @@ open_to:    ["Internships", "Collaboration on student/AI projects"]
 
 ## 📌 Featured projects
 
-<details>
-<summary><b>🔍 INDEXA — Mini Search Engine</b> · Java</summary>
-<br>
-Java-based search engine built from scratch using hand-built Trie, Inverted Index, and Max Heap data structures, with custom sorting and searching algorithms for efficient information retrieval.
-</details>
 
 <details>
 <summary><b>🧭 Smart Traffic Navigation System</b> · Python, Streamlit, NetworkX, SQLite</summary>
@@ -106,6 +101,12 @@ Machine learning web app that predicts academic grades through predictive modeli
 <summary><b>☕ Coffee Management System</b> · HTML, CSS, JavaScript, Node.js, Express.js, SQLite</summary>
 <br>
 Backend management system with full CRUD operations, integrated using RESTful backend services.
+</details>
+
+<details>
+<summary><b>🔍 INDEXA — Mini Search Engine</b> · Java</summary>
+<br>
+Java-based search engine built from scratch using hand-built Trie, Inverted Index, and Max Heap data structures, with custom sorting and searching algorithms for efficient information retrieval.
 </details>
 
 <details>
@@ -127,16 +128,6 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 
 <br>
 
-## 💬 Dev quote of the day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
-
-<br>
-
 ## 🤝 Connect with me
 
 <div align="center">
@@ -149,6 +140,6 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 
 *"Always learning, always building — one step at a time."*
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:2D1B4E&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:2D1B4E&height=100&section=footer&text=toobahashim&fontSize=16&fontColor=ffffff&fontAlignY=80" width="100%"/>
 
 </div>
