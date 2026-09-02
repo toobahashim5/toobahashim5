@@ -1,138 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2D1B4E,100:8A2BE2&height=200&section=header&text=Tooba%20Hashim&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Builder&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1A1033,50:4B207D,100:8A2BE2&height=220&section=header&text=Tooba%20Hashim&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=61&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3200&pause=900&color=8A2BE2&center=true&vCenter=true&width=560&lines=Turning+ideas+into+working+software;One+project%2C+one+commit+at+a+time;Currently+exploring+AI%2FML" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+ideas+into+working+software;Learning+by+building+%26+solving;Exploring+AI%2FML+one+project+at+a+time;Turning+problems+into+practical+solutions" />
 
 <br><br>
 
-![Location](https://img.shields.io/badge/📍_LOCATION-KARACHI,_PAKISTAN-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
-![Status](https://img.shields.io/badge/🎓_STATUS-SE_STUDENT_@_UIT-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
+![Location](https://img.shields.io/badge/📍_Karachi%2C_Pakistan-8A2BE2?style=for-the-badge\&labelColor=1a1a2e)
+![Student](https://img.shields.io/badge/🎓_Software_Engineering-8A2BE2?style=for-the-badge\&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/🤖_AI%2FML_Enthusiast-8A2BE2?style=for-the-badge\&labelColor=1a1a2e)
 
 </div>
 
 <br>
 
-## 🚀 About me
+## 👩‍💻 About Me
 
 ```yaml
-name:      "Tooba Hashim"
-role:      "Software Engineering Student"
-university: "Usman Institute of Technology (UIT), Karachi"
-graduating: "2028"
-focus:     ["AI/ML", "Full-Stack Development", "Problem Solving"]
-stack:     "Java, Python, JS, React, Node.js, Express, SQLite, Figma"
-mindset:   "Learn by building, breaking, and improving"
-open_to:   ["Software Engineering roles", "AI/ML collaboration", "Open source"]
+name:        "Tooba Hashim"
+role:        "Software Engineering Student"
+university:  "Usman Institute of Technology (UIT), Karachi"
+graduating:  "2028"
+
+focus:
+  - Artificial Intelligence & Machine Learning
+  - Full-Stack Development
+  - Data Structures & Algorithms
+  - Problem Solving
+
+currently_learning:
+  - Machine Learning Fundamentals
+  - Advanced DSA
+  - Data Analysis with Python
+
+mindset:     "Learn by building, break things, understand why, improve."
+open_to:
+  - Software Engineering Internships
+  - AI/ML Projects
+  - Student Collaborations
+  - Open Source
 ```
 
-I'm a Software Engineering student with a strong foundation in **OOP** and core software engineering concepts, currently deepening my skills in **AI/ML** while building practical, user-focused applications. I enjoy the full journey from database design to UI — and I'm always exploring how AI can make everyday software smarter.
+I'm a **Software Engineering student** with a strong foundation in **OOP, Data Structures, Algorithms, databases, and full-stack development**.
+
+I enjoy turning ideas into practical applications — from designing databases and building backend APIs to creating user-friendly interfaces. Currently, I'm exploring **AI/ML and data-driven applications** while continuing to strengthen my software engineering fundamentals.
 
 <br>
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
-**Frontend**
+### 🎨 Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
 
-**Backend & databases**
+### ⚙️ Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square\&logo=sqlite\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 
-**Tooling**
+### 🤖 Data & AI
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square\&logo=python\&logoColor=white)
 
-<br>
+### 🔧 Tools
 
-## 🎯 Currently
-
-```yaml
-learning:   ["Machine Learning fundamentals", "Advanced DSA"]
-building:   ["Portfolio projects", "GitHub profile presence"]
-exploring:  ["AI/ML vs Cybersecurity specialization"]
-open_to:    ["Internships", "Collaboration on student/AI projects"]
-```
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square\&logo=visualstudiocode\&logoColor=white)
 
 <br>
 
-## 📌 Featured projects
+## 🎯 Currently Learning
+
+<div align="center">
+
+| 🧠 Area           | 📚 Focus                                            |
+| :---------------- | :-------------------------------------------------- |
+| 🤖 **AI / ML**    | Machine Learning fundamentals & predictive modeling |
+| 🐍 **Python**     | Pandas, data analysis & practical applications      |
+| 🧩 **DSA**        | Advanced data structures & algorithms               |
+| 🌐 **Full-Stack** | Building complete web applications                  |
+| 🚀 **Projects**   | Turning concepts into portfolio-ready software      |
+
+</div>
+
+<br>
+
+## 📌 Featured Projects
 
 <details>
 <summary><b>🔍 INDEXA — Mini Search Engine</b> · Java</summary>
+
 <br>
-Java-based search engine built from scratch using hand-built Trie, Inverted Index, and Max Heap data structures, with custom sorting and searching algorithms for efficient information retrieval.
+
+A Java-based search engine built from scratch using **Trie, Inverted Index, Max Heap, searching and sorting algorithms** for efficient information retrieval.
+
+**Core concepts:** Data Structures · Algorithms · Information Retrieval · Java
+
 </details>
+
+<br>
 
 <details>
-<summary><b>🧭 Smart Traffic Navigation System</b> · Python, Streamlit, NetworkX, SQLite</summary>
+<summary><b>🧭 Smart Traffic Navigation System</b> · Python · Streamlit</summary>
+
 <br>
-Route-finding application for the Karachi road network with user authentication, live dashboard, and navigation history, using graph algorithms for route optimization.
+
+A route-finding application designed around the **Karachi road network**, featuring authentication, route optimization, navigation history and an interactive dashboard.
+
+**Tech:** Python · Streamlit · NetworkX · SQLite · Graph Algorithms
+
 </details>
+
+<br>
 
 <details>
-<summary><b>📈 Student Academic Success Predictor</b> · Python, Pandas, Scikit-learn, Streamlit</summary>
+<summary><b>📈 Student Academic Success Predictor</b> · Python · Machine Learning</summary>
+
 <br>
-Machine learning web app that predicts academic grades through predictive modeling, backed by a full data processing and analysis pipeline built with Pandas.
+
+A machine learning web application that predicts student academic outcomes using a complete **data processing, analysis and predictive modeling pipeline**.
+
+**Tech:** Python · Pandas · Scikit-learn · Streamlit
+
 </details>
+
+<br>
 
 <details>
-<summary><b>☕ Coffee Management System</b> · HTML, CSS, JavaScript, Node.js, Express.js, SQLite</summary>
+<summary><b>☕ Coffee Management System</b> · Node.js · Express.js</summary>
+
 <br>
-Backend management system with full CRUD operations, integrated using RESTful backend services.
+
+A backend management system providing **CRUD operations and RESTful APIs**, connected to a SQLite database for managing coffee shop data.
+
+**Tech:** HTML · CSS · JavaScript · Node.js · Express.js · SQLite
+
 </details>
+
+<br>
 
 <details>
-<summary><b>✊ Rock Paper Scissors Game</b> · Java Swing, SQLite</summary>
+<summary><b>✊ Rock Paper Scissors Game</b> · Java Swing</summary>
+
 <br>
-Desktop game built with Java Swing and SQLite integration, featuring user authentication and persistent, database-backed game statistics tracking.
+
+A Java desktop application with **user authentication, SQLite integration and persistent game statistics**.
+
+**Tech:** Java · Java Swing · SQLite
+
 </details>
 
 <br>
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 💻 Coding Activity
+<img src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="41%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=12" width="60%"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=toobahashim5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
 
 </div>
+
 <br>
 
-## 🤝 Connect with me
+## 📈 Contribution Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/toobahashim-6452a7374)
-[![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=toobahashim5&theme=tokyo-night&hide_border=true&radius=12&area=true" width="95%"/>
+
+</div>
+
+<br>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/toobahashim-6452a7374">
+<img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<a href="mailto:toobahashim3@gmail.com">
+<img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<a href="https://github.com/toobahashim5">
+<img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e"/>
+</a>
 
 <br><br>
 
-*"Always learning, always building — one step at a time."*
+*"Always learning. Always building. Always improving."*
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:2D1B4E&height=100&section=footer&text=toobahashim&fontSize=16&fontColor=ffffff&fontAlignY=80" width="100%"/>
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,50:4B207D,100:1A1033&height=110&section=footer&text=Keep%20Building%20%E2%80%A2%20Keep%20Learning&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
