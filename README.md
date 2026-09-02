@@ -182,10 +182,6 @@ A Java desktop application with **user authentication, SQLite integration and pe
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=12" width="60%"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=toobahashim5&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="90%"/>
-
 </div>
 
 <br>
