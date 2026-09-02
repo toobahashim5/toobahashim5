@@ -104,21 +104,21 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 
 <br>
 
-## 📊 GitHub analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/toobahashim5&label=PUBLIC+REPOS&query=public_repos&color=8A2BE2&style=for-the-badge&labelColor=1a1a2e)
-![Followers](https://img.shields.io/github/followers/toobahashim5?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e)
-![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/toobahashim5&label=ACCOUNT&query=type&color=8A2BE2&style=for-the-badge&labelColor=1a1a2e)
+### 💻 Coding Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=6" width="40%"/>
 
 <br><br>
 
-![Top Language](https://img.shields.io/github/languages/top/toobahashim5/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=TOP+LANGUAGE)
-![Last Commit](https://img.shields.io/github/last-commit/toobahashim5/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=LAST+UPDATED)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=10" width="60%"/>
 
 </div>
-
 <br>
 
 ## 🤝 Connect with me
