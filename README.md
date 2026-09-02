@@ -174,11 +174,11 @@ A Java desktop application with **user authentication, SQLite integration and pe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=toobahashim5&theme=tokyonight&hide_border=true&border_radius=12)
+![GitHub Streak](https://streak-stats.demolab.com?user=toobahashim5&theme=tokyonight&hide_border=true)
 
 </div>
 
