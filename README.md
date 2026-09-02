@@ -9,6 +9,16 @@
 ![Location](https://img.shields.io/badge/📍_LOCATION-KARACHI,_PAKISTAN-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
 ![Status](https://img.shields.io/badge/🎓_STATUS-SE_STUDENT_@_UIT-8A2BE2?style=for-the-badge&labelColor=1a1a2e)
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://www.linkedin.com/in/toobahashim-6452a7374)
+[![Email](https://img.shields.io/badge/EMAIL-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:toobahashim3@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/toobahashim5)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=toobahashim5&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=PROFILE+VIEWS)
+
 </div>
 
 <br>
@@ -108,8 +118,14 @@ Desktop game built with Java Swing and SQLite integration, featuring user authen
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=toobahashim5&show_icons=true&theme=dark&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toobahashim5&layout=compact&theme=dark&hide_border=true"/>
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/toobahashim5&label=PUBLIC+REPOS&query=public_repos&color=8A2BE2&style=for-the-badge&labelColor=1a1a2e)
+![Followers](https://img.shields.io/github/followers/toobahashim5?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=1a1a2e)
+![Stars](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/toobahashim5&label=ACCOUNT&query=type&color=8A2BE2&style=for-the-badge&labelColor=1a1a2e)
+
+<br><br>
+
+![Top Language](https://img.shields.io/github/languages/top/toobahashim5/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=TOP+LANGUAGE)
+![Last Commit](https://img.shields.io/github/last-commit/toobahashim5/toobahashim5?style=for-the-badge&color=8A2BE2&labelColor=1a1a2e&label=LAST+UPDATED)
 
 </div>
 
