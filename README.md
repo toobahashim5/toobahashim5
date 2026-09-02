@@ -44,7 +44,6 @@ open_to:
 ```
 
 I'm a **Software Engineering student** with a strong foundation in **OOP, Data Structures, Algorithms, databases, and full-stack development**.
-
 I enjoy turning ideas into practical applications — from designing databases and building backend APIs to creating user-friendly interfaces. Currently, I'm exploring **AI/ML and data-driven applications** while continuing to strengthen my software engineering fundamentals.
 
 <br>
